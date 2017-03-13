@@ -1,5 +1,5 @@
 _repo: Undine_2825
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '945'
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de
@@ -27,6 +30,8 @@ description: "Undine is a fairy-tale novella (Erzählung) by Friedrich de la Mot
   \ Fouqué in which Undine, a water spirit, marries a knight named Huldebrand in order\
   \ to gain a soul. It is an early German romance, which has been translated into\
   \ English and other languages.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2825#Undine
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
